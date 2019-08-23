@@ -1,0 +1,3 @@
+this wallet is crap. base functions. requires bitsv python library and polyglot bsv library. found here https://github.com/AustEcon/bitsv and here https://github.com/AustEcon/polyglot.
+
+needs a blank privkey.txt included in folder to work, will try to fix later. Again, this is crap code, meant the show how a wallet can be built simply. Id appreciate feedback.
